@@ -1,0 +1,43 @@
+body {
+    background-color: #14d5e3;  
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+header img {
+    height: 100px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+}
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+nav a:hover {
+    background-color: #5a5555;
+}
+.content {
+    padding: 20px;
+}
+.heritage-list img {
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+    cursor: pointer;
+}
+.gallery img {
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+}
